@@ -1,2 +1,2 @@
-# claude-skill-guide
-Claude Skill setup guide
+# process-scout-skill
+Claude Skill setup guide for Process Scout skill
